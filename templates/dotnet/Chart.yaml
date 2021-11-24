@@ -1,4 +1,4 @@
 apiVersion: v1
 description: A Helm chart for Java Kubernetes
-name: dotnet-pipeline-azure-devops
+name: parrot
 version: v0.3.0
