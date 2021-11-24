@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: {{ include "charts.fullname" . }}
   labels:
-    {{- include "charts.labels" . | nindent 4 }}
+    release: "{{ .Release.Name }}"
 spec:
   {{- if not .Values.autoscaling.enabled }}
   replicas: {{ .Values.replicaCount }}
