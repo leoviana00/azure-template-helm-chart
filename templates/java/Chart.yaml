@@ -1,5 +1,5 @@
 apiVersion: v2
-name: $(projectName)
+name: app-java
 description: A Helm chart for Java Kubernetes
 version: v0.1.0
 appVersion: "1.16.0"
