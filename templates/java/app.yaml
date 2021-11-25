@@ -1,4 +1,4 @@
 app: 
-  svc:
+  chart:
     project1: java-pipeline-azure-devops 
 #   project2: project-two 

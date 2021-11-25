@@ -1,0 +1,4 @@
+app: 
+  chart:
+    project1: dotnet-pipeline-azure-devops
+#   project2: project-two 
