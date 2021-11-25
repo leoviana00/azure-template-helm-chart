@@ -1,4 +1,4 @@
 app: 
   svc:
-    java-pipeline-azure-devops: java-pipeline-azure-devops 
-#   projecttwo: project-two 
+    project1: java-pipeline-azure-devops 
+#   project2: project-two 
