@@ -1,0 +1,5 @@
+parameters:
+  projectName: ""
+
+variables:
+  projectName: ${{ parameters.projectName }}
