@@ -1,33 +1,18 @@
-## Helm 3
+<h1 align="center">Templates Helm 3</h1>
 
-- Repositório para armazenamento de templates helm
+<p align="center">
+  <img alt="Templates" src="https://img.shields.io/static/v1?label=Repo&message=Templates&color=8257E5&labelColor=000000"  />
 
-![](./img/helm.jpg)
+  <img alt="Helm" src="https://img.shields.io/static/v1?label=Helm&message=Charts&color=49AA26&labelColor=000000">
+</p>
+
+![](./img/pipeline.png)
+
+## 🛠️ Objetivo
+
+- Repositório para armazenamento de templates helm dos projetos `java`e `dotnet`.
+
 
 ## Estrutura
 
-```console
-
-- repo
-    - templates
-        - base-templates
-            - templates
-            - .helmignore
-            - Chart.yaml
-            - values.yaml
-
-        - dotnet
-            - project1
-                - templates
-                - .helmignore
-                - Chart.yaml
-                - values.yaml
-                
-        - java
-            - project1
-                - templates
-                - .helmignore
-                - Chart.yaml
-                - values.yaml
-
-```
+![](./img/estrutura-helm.png)
