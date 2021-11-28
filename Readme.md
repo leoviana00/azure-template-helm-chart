@@ -13,6 +13,6 @@
 - Repositório para armazenamento de templates helm dos projetos `java`e `dotnet`.
 
 
-## Estrutura
+## ✨ Estrutura
 
 ![](./img/estrutura-helm.png)
