@@ -1,0 +1,4 @@
+apiVersion: v2
+description: Azure Brady in his Node.js attire.
+name: node-pipeline-azure-devops
+version: v0.3.0
